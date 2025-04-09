@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "method_Cholesky", "method_Cholesky\method_Cholesky.csproj", "{3954BDB2-0E5F-DF4A-5BC4-B69A18349538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3954BDB2-0E5F-DF4A-5BC4-B69A18349538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3954BDB2-0E5F-DF4A-5BC4-B69A18349538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3954BDB2-0E5F-DF4A-5BC4-B69A18349538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3954BDB2-0E5F-DF4A-5BC4-B69A18349538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BABA9625-C636-4AB4-A9B2-2A864F9DE4A7}
+	EndGlobalSection
+EndGlobal
